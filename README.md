@@ -1,1 +1,1 @@
-Solution to the Coursera HTML, CSS and Javascript course, module 2.
+Solutions to Coursera assignments.
