@@ -1,0 +1,47 @@
+.navbar-default {
+    background-color: #000099;
+    border: 0px;
+    border-radius: 0px;
+    margin: 0px;
+}
+
+.navbar-default a:link.navbar-brand, .navbar-default a:visited.navbar-brand {
+    color: #aaaaaa;
+}
+
+.navbar-default a:active.navbar-brand, .navbar-default a:hover.navbar-brand {
+    color: #cccccc;
+}
+
+.navbar-nav a {
+    margin-left: 15px;
+}
+#navbar-content .navbar-nav a:link, #navbar-content .navbar-nav a:visited {
+    background-color: #3333cc;
+    color: #aaaaaa;
+}
+
+#navbar-content .navbar-nav a:active, #navbar-content .navbar-nav a:hover {
+    background-color: #000099;
+    color: #cccccc;
+}
+
+#section1, #section2, #section3 {
+    background-color: #ccccff;
+    padding: 40px 5px 5px 5px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.label {
+    background-color: #000099;
+    border-radius: 0px;
+    color: #aaaaaa;
+    font-size: 1.8em;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
